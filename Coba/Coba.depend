@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521989565 source:e:\project cpp\project\coba\main.cpp
+	"hqu.h"
+	"hst.h"
+
+1521989691 e:\project cpp\project\coba\hqu.h
+	<iostream>
+
+1521989614 e:\project cpp\project\coba\hst.h
+	<iostream>
+

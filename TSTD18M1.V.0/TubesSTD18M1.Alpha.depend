@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1522063475 source:e:\project cpp\project\tstd18m1.v.0\main.cpp
+	"HeaderApps.h"
+
+1523887304 e:\project cpp\project\tstd18m1.v.0\headerapps.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+
+1522081008 source:e:\project cpp\project\tstd18m1.v.0\systemsettingapps.cpp
+	"HeaderApps.h"
+
+1523669854 source:e:\project cpp\project\tstd18m1.v.0\circulardoublelinkedlistapps.cpp
+	"HeaderApps.h"
+
+1523673904 source:e:\project cpp\project\tstd18m1.v.0\doublelinkedlistapps.cpp
+	"HeaderApps.h"
+
+1523888688 source:e:\project cpp\project\tstd18m1.v.0\singlelinkedlistapps.cpp
+	"HeaderApps.h"
+
+1523887425 source:e:\project cpp\project\tstd18m1.v.0\systemprocessapps.cpp
+	"HeaderApps.h"
+
+1523670000 source:e:\project cpp\project\tstd18m1.v.0\systeminsertapps.cpp
+	"HeaderApps.h"
+
+1523887760 source:e:\project cpp\project\tstd18m1.v.0\systemdeleteapps.cpp
+	"HeaderApps.h"
+
+1523616636 source:e:\project cpp\project\tstd18m1.v.0\systemupdateapps.cpp
+	"HeaderApps.h"
+
+1523616631 source:e:\project cpp\project\tstd18m1.v.0\systemviewapps.cpp
+	"HeaderApps.h"
+
